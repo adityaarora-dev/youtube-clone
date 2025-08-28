@@ -7,8 +7,9 @@ It's a frontend-only project, focused on learning layout structuring, styling, a
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Netlify] (https://adityaa-youtube.netlify.app/) 
-📁 [Source Code on GitHub] (https://github.com/yourusername/youtube-clone)
+🔗 [View Live on Netlify] (https://adityaa-youtube.netlify.app/)
+
+📁 [Source Code on GitHub] (https://adityaarora-dev.github.io/youtube-clone/)
 
 ---
 
